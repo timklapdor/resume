@@ -41,6 +41,8 @@ colour:
     secondary: 354257 # sets the hover colour
     text: 1a1a1a # sets text colour
     alternatestripe: aaaaaa # sets the alternate background stripe
+    
+bgimage: "tim-hd.jpg" # set hero image here. add file name and place in Images folder    
 
 # Build settings
 markdown: kramdown
