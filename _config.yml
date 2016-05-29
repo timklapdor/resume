@@ -46,6 +46,6 @@ bgimage: "tim-hd.jpg" # set hero image here. add file name and place in Images f
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 excerpt_separator: ""   # Workaround for http://blog.slaks.net/2013-08-09/jekyll-tag-was-never-closed
