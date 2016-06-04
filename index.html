@@ -106,7 +106,7 @@ layout: default
 {% for award in site.award reversed %}
     <div class="row">  
         <div class="five columns">
-                <h2 class="date">{{ award.date }}</h2>
+                <h2 class="date">{{ award.period }}</h2>
                 <h4 class="institution">{{ award.issuer }}</h4>
             </div>
          <div class="seven columns">
@@ -133,7 +133,7 @@ layout: default
 {% for publications in site.publications reversed %}        
     <div class="row">  
         <div class="five columns">
-                <h2 class="date">{{ publications.date }}</h2>
+                <h2 class="date">{{ publications.period }}</h2>
                 <h4 class="institution">{{ publications.publisher }}</h4>
             </div>
          <div class="seven columns">

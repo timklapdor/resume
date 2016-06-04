@@ -3,7 +3,7 @@
 title: "Conducting and Reporting on Educational Technology Research for Institutional Impact"
 authors: "Harriet Ridolfo, Susan Tull, Lynette Nagel, Janette Kruger, Sue Gregory, Tim Klapdor, Philip Uys"
 publisher: Ascilite 2012 Conference Proceeding
-date: Nov 2012
+period: Nov 2012
 link: http://www.researchgate.net/publication/234130403_Conducting_and_Reporting_on_Educational_Technology_Research_for_Institutional_Impact
 
 ---

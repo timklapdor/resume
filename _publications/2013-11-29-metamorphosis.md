@@ -3,7 +3,7 @@
 title: "Metamorphosis and Adaptive Digital Publishing"
 authors: "Rob Stone, Tim Klapdor, Tyswan Slater, Rod Haggith"
 publisher: Ascilite 2013 Conference Proceeding
-date: Nov 2013
+period: Nov 2013
 link: http://www.ascilite.org.au/conferences/sydney13/program/papers/Stone.php
 
 ---

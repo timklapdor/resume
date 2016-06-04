@@ -3,7 +3,7 @@
 title: "Mobile Learning at Charles Sturt University: Lessons learned from university-wide iPad trials in 2012"
 authors: "Tim Klapdor, Philip Uys"
 publisher: Ascilite 2013 Conference Proceeding
-date: Nov 2013
+period: Nov 2013
 link: http://www.ascilite.org.au/conferences/sydney13/program/papers/Klapdor.php
 
 ---
