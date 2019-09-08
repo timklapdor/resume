@@ -162,7 +162,7 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-    color: #{{ site.colour.primary }}; 
+    color: #{{ site.colour.primary }};
     text-decoration: none;
 }
 a:hover {
@@ -435,23 +435,23 @@ there.
 		margin: 40px 0px 40px 0px;
 		font: 12px 'PT Sans', sans-serif;
 		line-height: 20px;
-		text-align: center; 
+		text-align: center;
 	}
-	
+
 	.headline h1 {
-		padding: 10px 15px;	
+		padding: 10px 15px;
 		margin-bottom: 0;
 		text-transform: uppercase;
 		line-height: 53px;
 	}
-	
+
 	.headline h2 {
-		padding: 30px 40px;	
+		padding: 30px 40px;
 		margin-bottom: 0;
 		text-transform: uppercase;
 		line-height: 28x;
 	}
-	
+
 	.headline p {
 		position: absolute;
 		top: -10px;
@@ -460,17 +460,17 @@ there.
 		letter-spacing: 1px;
         text-transform: uppercase;
 	}
-	
+
 	.headline p span {
 		padding: 0 10px;
-		background-color: #fff; 
+		background-color: #fff;
 	}
 
 
 
 
     .personal-details li {
-            padding: 9px 0; 
+            padding: 9px 0;
             border-bottom: 1px solid #e1e1e1;
             color: #252525;
             list-style: none;
@@ -528,6 +528,9 @@ section {
     min-height: 100vh;
     position: relative;
     color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 /* uses this fix http://stackoverflow.com/questions/1762539/margin-on-child-element-moves-parent-element */
@@ -542,7 +545,7 @@ section {
     padding: 20px;
     font: 'PT Sans', sans-serif,;
     margin-top: 60vh;
-    
+
 }
 .site-title-text h1{
     font-weight: 700;
@@ -556,5 +559,5 @@ section {
     line-height: 10rem:
     margin-top: -30px;
     text-transform: uppercase
-        
+
 }

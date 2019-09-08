@@ -158,11 +158,11 @@ p {
 /* Links
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 a {
-    color: #8b563F; 
+    color: #0D789F;
     text-decoration: none;
 }
 a:hover {
-    color: #354257; }
+    color: #5795B1; }
 
 
 /* Buttons
@@ -208,8 +208,8 @@ input[type="submit"].button-primary,
 input[type="reset"].button-primary,
 input[type="button"].button-primary {
   color: #FFF;
-  background-color: #8b563F;
-  border-color: #8b563F; }
+  background-color: #0D789F;
+  border-color: #0D789F; }
 .button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -221,8 +221,8 @@ input[type="submit"].button-primary:focus,
 input[type="reset"].button-primary:focus,
 input[type="button"].button-primary:focus {
   color: #FFF;
-  background-color: #354257;
-  border-color: #354257; }
+  background-color: #5795B1;
+  border-color: #5795B1; }
 
 
 /* Forms
@@ -431,23 +431,23 @@ there.
 		margin: 40px 0px 40px 0px;
 		font: 12px 'PT Sans', sans-serif;
 		line-height: 20px;
-		text-align: center; 
+		text-align: center;
 	}
-	
+
 	.headline h1 {
-		padding: 10px 15px;	
+		padding: 10px 15px;
 		margin-bottom: 0;
 		text-transform: uppercase;
 		line-height: 53px;
 	}
-	
+
 	.headline h2 {
-		padding: 30px 40px;	
+		padding: 30px 40px;
 		margin-bottom: 0;
 		text-transform: uppercase;
 		line-height: 28x;
 	}
-	
+
 	.headline p {
 		position: absolute;
 		top: -10px;
@@ -456,17 +456,17 @@ there.
 		letter-spacing: 1px;
         text-transform: uppercase;
 	}
-	
+
 	.headline p span {
 		padding: 0 10px;
-		background-color: #fff; 
+		background-color: #fff;
 	}
 
 
 
 
     .personal-details li {
-            padding: 9px 0; 
+            padding: 9px 0;
             border-bottom: 1px solid #e1e1e1;
             color: #252525;
             list-style: none;
@@ -478,12 +478,12 @@ there.
     .personal-details li:last-child { border-bottom: none; }
 
 #experience, #awards, #skills {
-    background-color:  #aaaaaa;
+    background-color:  #0D789F;
     color: #ffffff;
 }
 
 #experience .headline p span, #awards .headline p span, #skills .headline p span  {
-    background-color: #aaaaaa;
+    background-color: #0D789F;
 }
 
 .five.columns h2 {
@@ -515,7 +515,7 @@ section {
 }
 
 #header {
-    background-image: url(../images/tim-hd.jpg);
+    background-image: url(../images/tim-2019.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -524,6 +524,9 @@ section {
     min-height: 100vh;
     position: relative;
     color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 /* uses this fix http://stackoverflow.com/questions/1762539/margin-on-child-element-moves-parent-element */
@@ -538,7 +541,7 @@ section {
     padding: 20px;
     font: 'PT Sans', sans-serif,;
     margin-top: 60vh;
-    
+
 }
 .site-title-text h1{
     font-weight: 700;
@@ -552,5 +555,5 @@ section {
     line-height: 10rem:
     margin-top: -30px;
     text-transform: uppercase
-        
+
 }

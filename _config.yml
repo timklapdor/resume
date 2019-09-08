@@ -3,7 +3,7 @@ title: "Tim Klapdor"
 tagline: "Technology | Design | Education"
 email: tim.klapdor@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to the resume of Tim Klapdor. Tim trained as a graphic designer and has been working in higher education, originally developing eLearning resources but is now focussed on the underlying technology used in education.  
+  Welcome to the resume of Tim Klapdor. Tim trained as a graphic designer and has been working in higher education, originally developing eLearning resources but is now focussed on the underlying technology used in education.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://timklapdor.com" # the base hostname & protocol for your site
 
@@ -12,7 +12,7 @@ collections:
     award:
         output: true
         title: Award
-    education: 
+    education:
         output: true
         title: Education
     experience:
@@ -36,13 +36,13 @@ collections:
 
 # Colour Configuration
 
-colour: 
-    primary: 8b563F # sets the primary link colour
-    secondary: 354257 # sets the hover colour
+colour:
+    primary: 0D789F # sets the primary link colour
+    secondary: 5795B1 # sets the hover colour
     text: 1a1a1a # sets text colour
-    alternatestripe: aaaaaa # sets the alternate background stripe
-    
-bgimage: "tim-hd.jpg" # set hero image here. add file name and place in Images folder    
+    alternatestripe: 0D789F # sets the alternate background stripe
+
+bgimage: "tim-2019.jpg" # set hero image here. add file name and place in Images folder
 
 # Build settings
 markdown: kramdown
