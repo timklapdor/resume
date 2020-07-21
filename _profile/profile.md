@@ -16,7 +16,7 @@ slideshare: "http://slideshare.net/timklapdor/"
 
 I would describe myself as an Expert Generalist with skills spanning graphic design, multimedia, web design, project leadership, visual communication, user experience, eLearning, online systems, interface design and information architecture. 
 
-Currently I am the Online Learning Technology Leader at Charles Sturt University, where I've also held a variety of roles relating to the implementation, development and production of eLearning resources and systems. Previous to this I spent a number of years in commercial graphic design, working in a variety of roles in print and marketing in Australia and in Europe.
+Currently I am the Manger of Learning Design and Content at the [University of Adelaide](https://www.adelaide.edu.au/) working in the Online Programs Team to develop MOOCs and online post graduate courses. Previous to this I spent 13 years at [Charles Sturt University](https://www.csu.edu.au/) where I've also held a variety of roles relating to the implementation, development and production of eLearning resources and systems. Previous to this I spent a number of years in commercial graphic design, working in a variety of roles in print and marketing in Australia and in Europe.
 
 I have a keen interest in innovation as well as developing and implementing new technologies within an educational context to enhance the learning experience. I believe that technology offers a range of unique opportunities to actualise a range of pedagogical and instructional approaches which can revolutionise the education sector. I love the challenge that new technology brings and the creative process involved in developing an idea through to implementation.
 
